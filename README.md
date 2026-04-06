@@ -1,0 +1,2 @@
+# Python-script
+small programe
